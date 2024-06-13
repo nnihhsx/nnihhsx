@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+meu nome e nicolly oliveira, estou estudando na alura
 <!--
 **nnihhsx/nnihhsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
